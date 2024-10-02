@@ -1,16 +1,22 @@
-## Hi there 👋
+### Ola, meu nome é Pablo! 🐱
 
-<!--
-**Pabloopk/Pabloopk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tecnologias
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D
+style=for-the-badge&logo=laravel&logoColor=white) ![
+img.shields.io/badge/PHP-777BB4?style=for-the-badge&
+logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScri
+style=for-the-badge&logo=javascript&logoColor=F7DF1
+[TailwindCss](https://img.shields.io/badge/Tailwind
+style=for-the-badge&logo=tailwind-css&logoColor=whi
+(https://img.shields.io/badge/SQLite-07405E?style=f
+logo=sqlite&logoColor=white) ![Mysql](https://img.s
+badge/MySQL-00000F?style=for-the-badge&logo=mysql&
+logoColor=white) 
+
+
+![Pabloopk GitHub stats](https://github-readme-stats
+api?username=Pabloopk&show_icons=true&theme=dracula)
