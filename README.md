@@ -1,7 +1,8 @@
 ### Olá, meu nome é Pablo! 🐱
 <p>Faço da dificuldade minha motivação!</p>
 <p>Tenho focado meus estudos na área da Tecnologia desde julho de 2023. Com o objetivo de me especializar no desenvolvimento Fullstack, comecei a Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio, tendo experiência em projetos voltados para a web.</p>
-</hr>
+
+
 #### Tecnologias
 <div style="display: inline_block"><br/>
     <img align= "center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
