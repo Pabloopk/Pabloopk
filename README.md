@@ -18,6 +18,6 @@
     <img align= "center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
-
+<br/>
 
 ![snake gif](https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif)
