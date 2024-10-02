@@ -1,5 +1,5 @@
 ### Olá, meu nome é Pablo! 🐱
-![snake gif](https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif)
+
 
 <p>Faço da dificuldade minha motivação!</p>
 <p>Tenho focado meus estudos na área da Tecnologia desde julho de 2023. Com o objetivo de me especializar no desenvolvimento Fullstack, comecei a Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio, tendo experiência em projetos voltados para a web.</p>
@@ -19,3 +19,5 @@
 
 </div>
 
+
+![snake gif](https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif)
