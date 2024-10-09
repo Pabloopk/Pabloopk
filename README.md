@@ -1,6 +1,6 @@
 ### Olá, meu nome é Pablo! 🐱
 <br/>
-<p>Tenho focado meus estudos na área da Tecnologia desde julho de 2023. Com o objetivo de me especializar no desenvolvimento Fullstack, comecei a Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio, tendo experiência em projetos voltados para a web.</p>
+<p>Desde julho de 2023, tenho direcionado meus estudos para o campo da Tecnologia da Informação, com ênfase no desenvolvimento Fullstack. Para consolidar essa trajetória, iniciei o curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio. Durante esse período, adquiri experiência prática em projetos voltados para o desenvolvimento de soluções web, o que tem contribuído significativamente para meu crescimento profissional na área.</p>
 
 
 #### Tecnologias
