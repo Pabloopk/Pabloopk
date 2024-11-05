@@ -17,10 +17,11 @@
     <img width="30px" style="padding-right: 10px;" alt="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
     <img width="30px" style="padding-right: 10px;" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
+<br/>
+ <img  heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=donut-vertical&theme=transparent" />
+<br/>
+
 </div>
-<br/>
-<br/>
- <img align="left" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=donut-vertical&theme=transparent" />
 <br/>
 <br/>
 
