@@ -21,9 +21,9 @@
 
 </div>
 <br/>
-#### **Estatíscas**:
+#### Estatíscas:
 <br/>
-<img align="left" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&_all_commits=true&locale=pt-br" />
+<img align="left" heigth="400px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&_all_commits=true&locale=pt-br" />
  <img  heigth="300px" align="center" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=donut-vertical&theme=transparent" />
 <br/>
 <br/>
