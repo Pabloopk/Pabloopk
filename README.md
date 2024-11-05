@@ -18,7 +18,7 @@
     <img width="50px" style="padding-right: 30px;" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 <br/>
- <img  heigth="200px" align="center" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=donut-vertical&theme=transparent" />
+ <img  heigth="300px" align="center" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=donut-vertical&theme=transparent" />
 <br/>
 
 </div>
