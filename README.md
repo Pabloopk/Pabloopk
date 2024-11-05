@@ -29,7 +29,10 @@
 <br/>
 <br/>
 
-<p>Práticas</p>
+<div>
+    <p>Entre em contato para iniciar seu projeto</p>
+    <a href="https://wa.me/5561992295015"><img align= "center" width="30px" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
 
 ![snake gif](https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif)
 
