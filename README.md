@@ -7,19 +7,22 @@
 </div>
 
 #### Tecnologias:
-<div style="display: inline_block"><br/>    
+<div style="display: inline_block">    
     <img alt="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-    <img width="30px" style="padding-right: 10px;" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img width="30px" style="padding-right: 10px;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img width="30px" style="padding-right: 10px;" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img width="30px" style="padding-right: 10px;" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img width="30px" style="padding-right: 10px;" alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img width="30px" style="padding-right: 10px;" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img width="30px" style="padding-right: 10px;" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img width="30px" style="padding-right: 10px;" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img width="30px" style="padding-right: 10px;" alt="Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img width="30px" style="padding-right: 10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="30px" style="padding-right: 10px;" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="30px" style="padding-right: 10px;" alt="TailwindCss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img width="30px" style="padding-right: 10px;" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" style="padding-right: 10px;" alt="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    <img width="30px" style="padding-right: 10px;" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 </div>
 <br/>
+<br/>
+ <img align="left" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&_all_commits=true&locale=pt-br" />
+
+ <img align="left" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=pie" />
 <br/>
 <br/>
 
