@@ -9,8 +9,8 @@
 
 #### Tecnologias:
 <div style="display: inline_block">    
-    <img alt="Laravel" width="50px" style="padding: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img width="50px" style="padding: 50px;" alt="Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img alt="Laravel" width="50px" style="padding: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img width="50px" style="padding: 50px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width="50px" style="padding: 50px;" alt="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="50px" style="padding: 50px;" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
