@@ -4,7 +4,7 @@
 
 #### Contato:
 <div>
-    <a href="https://wa.me/5561992295015"><img align= "center" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://api.whatsapp.com/send/?phone=5561992295015&text=Quero+iniciar+um+projeto%21&type=phone_number&app_absent=0 "><img align= "center" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 #### Tecnologias:
