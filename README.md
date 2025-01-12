@@ -18,7 +18,7 @@
     <img width="50px" style="padding: 50px;" alt="TailwindCss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="50px" style="padding: 50px;" alt="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
     <img width="50px" style="padding: 50px;" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img width="50px" style="padding: 50px; border: 2px white;" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+    <img width="50px" style="padding: 50px; border: 2px solid white;" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
     <img width="50px" style="padding: 50px;" alt="Netlify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
     <img width="50px" style="padding: 50px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
