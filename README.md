@@ -20,11 +20,14 @@
     <img width="50px" style="padding: 50px;" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     
 </div>
+
+#### Estatísticas:
+
 <img align="left" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent&custom_title=Tecnologias" />
 <br/>
 <img align="left" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&_all_commits=true&locale=pt-br" />
 
-<!--#### Estatísticas:
+<!--
 <div>
     -->
 
