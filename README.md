@@ -13,8 +13,10 @@
         </a>
     </div>
     <br/>
+    
 #### Tecnologias:
-    <div style="display: inline_block">    
+
+ <div style="display: inline_block">    
         <img width="50px" style="padding: 10px;" alt="Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
         <img alt="Laravel" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
         <img width="50px" style="padding: 10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
