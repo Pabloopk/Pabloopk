@@ -4,7 +4,9 @@
 
 <br/>
     <p>Desde julho de 2023, tenho direcionado meus estudos para o campo da Tecnologia da Informação, com ênfase no desenvolvimento Fullstack. Para consolidar essa trajetória, iniciei o curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio. Durante esse período, adquiri experiência prática em projetos voltados para o desenvolvimento de soluções web, o que tem contribuído significativamente para meu crescimento profissional na área.</p>
+    
 #### Contato:
+
 <div>
         <a href="https://api.whatsapp.com/send/?phone=5561992295015&text=Quero+iniciar+um+projeto%21&type=phone_number&app_absent=0">
             <img align="center" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white">
