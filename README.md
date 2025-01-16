@@ -14,7 +14,7 @@
     </div>
     <br/>
     
-<!--#### Tecnologias:
+#### Tecnologias:
 
  <div style="display: inline_block">    
         <img width="50px" style="padding: 10px;" alt="Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
