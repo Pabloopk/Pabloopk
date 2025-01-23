@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is+Pablo;Desenvolvedor+Web+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Pablo)](https://git.io/typing-svg)
 <br/>
     <p align="left">Desde julho de 2023, tenho direcionado meus estudos para o campo da Tecnologia da Informação, com ênfase no desenvolvimento Fullstack. Para consolidar essa trajetória, iniciei o curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio. Durante esse período, adquiri experiência prática em projetos voltados para o desenvolvimento de soluções web, o que tem contribuído significativamente para meu crescimento profissional na área.</p>
     
