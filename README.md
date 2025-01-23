@@ -32,11 +32,13 @@
         <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </div>
 
-<img align="center" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent&custom_title=Tecnologias" />
+
 
 </div>
 
+</br>
 
+<img align="center" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent&custom_title=Tecnologias" />
 
 
 
