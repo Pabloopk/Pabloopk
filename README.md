@@ -1,30 +1,4 @@
 <div align="center">
-    
-<title>Título Animado</title>
-  <style>
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-    .animated-title {
-      display: inline-block;
-      overflow: hidden;
-      white-space: nowrap;
-      border-right: 3px solid;
-      font-family: monospace;
-      font-size: 2em;
-      animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;
-    }
-    @keyframes blink-caret {
-      from, to { border-color: transparent; }
-      50% { border-color: black; }
-    }
-  </style>
-</head>
-<body>
-  <h1 class="animated-title">Título Animado</h1>
-</body>
-
 
 <br/>
     <p align="left">Desde julho de 2023, tenho direcionado meus estudos para o campo da Tecnologia da Informação, com ênfase no desenvolvimento Fullstack. Para consolidar essa trajetória, iniciei o curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio. Durante esse período, adquiri experiência prática em projetos voltados para o desenvolvimento de soluções web, o que tem contribuído significativamente para meu crescimento profissional na área.</p>
