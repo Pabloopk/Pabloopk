@@ -19,7 +19,7 @@
 
 <div align="center">
     
-#### Tecnologias:
+## Tecnologias:
 
 ###
 
