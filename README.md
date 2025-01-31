@@ -17,7 +17,7 @@
     <hr/>
 
 
-<div style="center;">
+<div align="center;">
     
 #### Tecnologias:
 
