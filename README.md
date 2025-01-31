@@ -11,7 +11,7 @@
             <img align="center" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
     </div>
-    <br/>
+    <hr/>
 
     
 #### Tecnologias:
