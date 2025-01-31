@@ -16,6 +16,8 @@
     </div>
     <hr/>
 
+
+<div style="center;">
     
 #### Tecnologias:
 
