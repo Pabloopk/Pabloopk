@@ -14,12 +14,6 @@
             <img align="center" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
  </div>
-
- <div>
-     <a href="https://www.getninjas.com.br/anuncios/design-e-tecnologia/aplicativos-para-celular-e-redes-sociais/tecnologia-pablo-nunes-de-sousa?ref=internal">
-         ![image](https://github.com/user-attachments/assets/10c71801-ad56-495a-abcc-a776ea7ea285)
-     </a>
- </div>
     <hr/>
 
 
