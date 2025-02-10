@@ -7,7 +7,6 @@
    </div>
 
    
-#### Contato:
 
 <div>
         <a href="https://api.whatsapp.com/send/?phone=5561992295015&text=Quero+iniciar+um+projeto%21&type=phone_number&app_absent=0">
