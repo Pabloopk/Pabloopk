@@ -39,6 +39,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |     
             dist/github-contribution-grid-snake.gif
+             color_snake: "#000000"
             dist/github-contribution-grid-snake.svg
           
           
