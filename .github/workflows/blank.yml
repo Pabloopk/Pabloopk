@@ -38,8 +38,8 @@ jobs:
           outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-            
-          color_grid: "#000000" 
+          color_snake: "#000000"
+          
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
