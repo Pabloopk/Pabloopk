@@ -51,8 +51,7 @@
 </hr>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Pabloopk/Pabloopk/output/github-contribution-grid-snake.gif">
 </picture>
 
