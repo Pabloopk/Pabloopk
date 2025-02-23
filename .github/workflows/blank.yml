@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -11,27 +11,25 @@ on:
 jobs:
   generate:
     permissions: 
-      contents: black
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
-    
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
+          outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-          color_snake: "#8A2BE2"  # Roxo (BlueViolet)
-          color_dots: "#ffffff00"  # Transparente (RGBA - branco com 0 de opacidade)
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          color_snake: "#00FF00" # Verde
+          color_dots: "#ffffff"  # Branco
+          color_background: "#000000" # Fundo preto
 
       - name: Show build status
         run: git status
@@ -41,6 +39,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
+          commit_message: "Update snake animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
