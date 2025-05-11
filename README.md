@@ -13,7 +13,7 @@
             <img align="center" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
             <a href="https://pabloodev.online">
-            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
+            <img width="50px"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
         </a>
  </div>
     <hr/>
