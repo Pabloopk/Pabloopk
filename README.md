@@ -53,6 +53,10 @@
 
 </hr>
 
+<a href="https://pabloodev.online">
+    <img width="50px"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
+</a>
+
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Pabloopk/Pabloopk/output/github-contribution-grid-snake.gif">
