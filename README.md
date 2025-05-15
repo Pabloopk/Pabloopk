@@ -13,8 +13,6 @@
             <img align="center" alt="whatsApp" src="https://img.shields.io/badge/WhatsApp-25D566?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
     
-    
-[![Acesse meu site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
  </div>
     <hr/>
 
@@ -53,7 +51,7 @@
 
 </hr>
 
-
+[![Acesse meu site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
 
 
 <!--<picture>
