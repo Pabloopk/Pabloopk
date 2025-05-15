@@ -51,7 +51,7 @@
 </hr>
 
 <a href="https://pabloodev.online">
-    <img width="50px"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
+    Meu Site
 </a>
 
 <!--<picture>
