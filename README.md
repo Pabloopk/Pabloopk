@@ -50,9 +50,8 @@
 
 </hr>
 
-<a href="https://pabloodev.online">
-    Meu Site
-</a>
+[![Acesse meu site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
+
 
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pabloopk/Pabloopk/blob/output/github-contribution-grid-snake.gif">
