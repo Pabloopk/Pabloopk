@@ -5,7 +5,7 @@
     <p align="left">
     Sou desenvolvedor web FullStack, com grande motivação para solucionar problemas utilizando JavaScript, PHP e SQL. Trabalho com os frameworks React.js, Next.js e TailwindCSS no front-        end e utilizo Laravel, SQLite e MySQL no back-end. Com essas ferramentas, sou capaz de desenvolver aplicações web, desde sites até sistemas completos.
     </p>
-    <p>
+    <p align="left">
         Desde 2023, tenho direcionado minha formação para a área de Tecnologia da Informação, com ênfase no desenvolvimento Fullstack. Para consolidar essa trajetória, iniciei a                 Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela Estácio. Ao longo desse período, venho adquirindo experiência prática em projetos voltados ao desenvolvimento          de soluções web, o que tem contribuído de maneira significativa para o meu aprimoramento e evolução profissional no setor.
     </p>
 
