@@ -4,11 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E45&width=435&lines=Olá,+meu+nome+é+Pablo!;Sou+Desenvolvedor+Web+Fullstack;Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
-
+<div align="left">
 🎯 **Sobre mim**
 
 Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de problemas. Trabalho com **React.js, Next.js e TailwindCSS** no front-end, e **Laravel, MySQL e SQLite** no back-end. Estou sempre em busca de novos desafios que contribuam para minha evolução profissional e a construção de soluções inteligentes.
-
+</div>
 ---
 
 📞 **Entre em contato comigo:**
