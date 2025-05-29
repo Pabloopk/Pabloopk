@@ -1,4 +1,51 @@
+
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E45&width=435&lines=Olá,+meu+nome+é+Pablo!;Sou+Desenvolvedor+Web+Fullstack;Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+---
+
+🎯 **Sobre mim**
+
+Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de problemas. Trabalho com **React.js, Next.js e TailwindCSS** no front-end, e **Laravel, MySQL e SQLite** no back-end. Estou sempre em busca de novos desafios que contribuam para minha evolução profissional e a construção de soluções inteligentes.
+
+📚 Atualmente, curso **Análise e Desenvolvimento de Sistemas** pela Estácio. Desde 2023, venho me dedicando a projetos práticos com foco na criação de aplicações web completas — de landing pages a sistemas integrados.
+
+---
+
+📞 **Entre em contato comigo:**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5561992295015&text=Quero+iniciar+um+projeto%21&type=phone_number&app_absent=0)
+[![Meu Site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
+
+---
+
+## 🚀 Tecnologias que utilizo:
+
+<div align="center">
+  
+| Back-End | Front-End | Banco de Dados | Hospedagem | Ferramentas |
+|:--------:|:---------:|:--------------:|:----------:|:------------:|
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
+| ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) | ![Netlify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg) | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) |
+|  | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |  |  |  |
+|  | ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) |  |  |  |
+|  | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) |  |  |  |
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent" />
+</div>
+
+</div>
+
+<!-- <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E45&width=435&lines=Ol%C3%A1,+meu+nome+%C3%A9+Pablo!;Sou+Desenvolvedor+Web;Obrigado+por+visitar+o+meu+perfil+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
 <hr/>
