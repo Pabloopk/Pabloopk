@@ -9,8 +9,6 @@
 
 Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de problemas. Trabalho com **React.js, Next.js e TailwindCSS** no front-end, e **Laravel, MySQL e SQLite** no back-end. Estou sempre em busca de novos desafios que contribuam para minha evolução profissional e a construção de soluções inteligentes.
 
-📚 Atualmente, curso **Análise e Desenvolvimento de Sistemas** pela Estácio. Desde 2023, venho me dedicando a projetos práticos com foco na criação de aplicações web completas — de landing pages a sistemas integrados.
-
 ---
 
 📞 **Entre em contato comigo:**
