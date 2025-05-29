@@ -5,11 +5,11 @@
 
 ---
 <div align="left">
-🎯 <h1>Sobre mim</h1>
+ <h1>Sobre mim</h1>
 
 Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de problemas. Trabalho com **React.js, Next.js e TailwindCSS** no front-end, e **Laravel, MySQL e SQLite** no back-end. Estou sempre em busca de novos desafios que contribuam para minha evolução profissional e a construção de soluções inteligentes.
 </div>
----
+
 
 📞 **Entre em contato comigo:**
 
