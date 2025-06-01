@@ -30,7 +30,8 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 | ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) | ![Netlify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg) | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) |
 |  | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |  |  |  |
 |  | ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) |  |  |  |
-|  | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) |  |  |  |
+|  | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) |  |  |  | 
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |  |  |  |  |
 
 </div>
 
