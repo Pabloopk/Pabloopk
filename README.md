@@ -35,7 +35,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 </div> -->
 
----
+
 
 <!--## 📊 Estatísticas do GitHub
 
