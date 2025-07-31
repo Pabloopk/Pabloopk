@@ -37,14 +37,14 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!--## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent" />
 </div>
 
-</div>
+</div>-->
 
 <!-- <div align="center">
 
@@ -91,7 +91,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
         <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </div>
 
-<!--###    
+###    
 
 </hr>
 <div align="center">
@@ -100,7 +100,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 </div>
 
-### -->
+### 
 
 <!--</hr>
 
