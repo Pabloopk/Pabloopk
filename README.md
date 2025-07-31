@@ -22,7 +22,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 ## 🚀 Tecnologias que utilizo:
 
-<div align="center">
+<!--<div align="center">
   
 | Back-End | Front-End | Banco de Dados | Hospedagem | Ferramentas |
 |:--------:|:---------:|:--------------:|:----------:|:------------:|
@@ -33,7 +33,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 |  | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) |  |  |  |
 
 
-</div>
+</div> -->
 
 ---
 
@@ -68,7 +68,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
     
  </div>
     <hr/>
-
+-->
 
 <div align="center">
     
@@ -102,7 +102,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 ### 
 
-</hr>
+<!--</hr>
 
 [![Acesse meu site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
 
