@@ -91,7 +91,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
         <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </div>
 
-###    
+<!--###    
 
 </hr>
 <div align="center">
@@ -100,7 +100,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 </div>
 
-### 
+### -->
 
 <!--</hr>
 
