@@ -20,7 +20,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 ---
 
-## 🚀 Tecnologias que utilizo:
+
 
 <!--<div align="center">
   
@@ -72,7 +72,7 @@ Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de pr
 
 <div align="center">
     
-## Tecnologias:
+## 🚀 Tecnologias que utilizo
 
 ###
 
