@@ -6,8 +6,7 @@
 ---
 <div align="left">
  <h1>Sobre mim</h1>
-
-Sou um desenvolvedor web Fullstack apaixonado por tecnologia e resolução de problemas. Trabalho com **React.js, Next.js e TailwindCSS** no front-end, e **Laravel, MySQL e SQLite** no back-end. Estou sempre em busca de novos desafios que contribuam para minha evolução profissional e a construção de soluções inteligentes.
+Sou desenvolvedor web FullStack, com grande motivação para solucionar problemas utilizando JavaScript, PHP e SQL. Trabalho com os frameworks React.js, Next.js e TailwindCSS no front-end e utilizo Laravel, SQLite e MySQL no back-end. Com essas ferramentas, sou capaz de desenvolver aplicações web, desde sites até sistemas completos.
 </div>
 
 
