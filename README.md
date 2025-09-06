@@ -36,7 +36,7 @@ Sou desenvolvedor web FullStack, com grande motivação para solucionar problema
 
 
 
-<!--## 📊 Estatísticas do GitHub
+-## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&locale=pt-br" />
