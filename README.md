@@ -1,12 +1,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E45&width=435&lines=Olá,+meu+nome+é+Pablo!;Sou+Desenvolvedor+Web+Fullstack;Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E45&width=435&lines=Olá,+meu+nome+é+Pablo!;Sou+Desenvolvedor+Fullstack;Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 <div align="left">
  <h1>Sobre mim</h1>
-Sou desenvolvedor web FullStack, com grande motivação para solucionar problemas utilizando JavaScript, PHP e SQL. Trabalho com os frameworks React.js, Next.js e TailwindCSS no front-end e utilizo Laravel, SQLite e MySQL no back-end. Com essas ferramentas, sou capaz de desenvolver aplicações web, desde sites até sistemas completos.
+Sou desenvolvedor FullStack, com grande motivação para solucionar problemas utilizando JavaScript, PHP e SQL. Trabalho com os frameworks React.js, Next.js e TailwindCSS no front-end e utilizo Laravel, SQLite e MySQL no back-end. Com essas ferramentas, sou capaz de desenvolver aplicações web, desde sites até sistemas completos.
 </div>
 
 
