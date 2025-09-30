@@ -38,10 +38,7 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
 
 <!--## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent" />
-</div>
+
 
 </div>
 
@@ -89,7 +86,7 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
         <img width="50px" style="padding: 10px;" alt="Netlify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
         <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </div>
-<!--
+
 
 
   </hr>
@@ -100,7 +97,7 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
   </div>
 
 ### 
--->
+
 <!-- </hr>
 
 [![Acesse meu site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
