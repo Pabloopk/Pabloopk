@@ -86,7 +86,7 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
         <img width="50px" style="padding: 10px;" alt="Netlify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
         <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     </div>
-
+---
 
 
   </hr>
