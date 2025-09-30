@@ -91,7 +91,7 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
 
   </hr>
   <div align="center">
-  <img align="center" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent&custom_title=Tecnologias" />
+  <img align="center" heigth="400px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent&custom_title=Tecnologias" />
  <!-- <img align="center" heigth="200px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api?username=Pabloopk&show_icons=true&theme=transparent&_all_commits=true&locale=pt-br" />
   
   </div>
