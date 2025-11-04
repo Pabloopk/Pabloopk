@@ -73,6 +73,7 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
 
  <div style="display: inline_block; grid:col 4">    
         <img width="50px" style="padding: 10px;" alt="Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+        <img width="50px" style="padding: 10px;" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
         <img alt="Laravel" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
         <img width="50px" style="padding: 10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         <img width="50px" style="padding: 10px;" alt="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
