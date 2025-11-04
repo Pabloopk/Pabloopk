@@ -69,9 +69,8 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
     
 ##  Tecnologias que utilizo
 
-
+### FrontEnd
 <div style="display: inline_block; grid:col 4"> 
- ### FrontEnd
         <img width="50px" style="padding: 10px;" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
         <img width="50px" style="padding: 10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         <img width="50px" style="padding: 10px;" alt="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -81,8 +80,8 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
         <img width="50px" style="padding: 10px;" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
         <img width="50px" style="padding: 10px;" alt="Netlify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 </div>
- <div style="display: inline_block; grid:col 4">    
   ### BackEnd
+ <div style="display: inline_block; grid:col 4">    
         <img width="50px" style="padding: 10px;" alt="Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
         <img alt="Laravel" width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />       
         <img width="50px" style="padding: 10px;" alt="Sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
