@@ -90,7 +90,12 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
         <img width="50px" style="padding: 10px;" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
         <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
  </div>
+ 
+### Ferramentas
 
+ <div style="display: inline_block; grid:col 4">     
+        <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ </div>
     
 ---
  
