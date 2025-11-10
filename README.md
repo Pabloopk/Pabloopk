@@ -67,7 +67,7 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
 
 <div align="center">
     
-##  Tecnologias que utilizo
+##  Skills
 
 ### FrontEnd
 
