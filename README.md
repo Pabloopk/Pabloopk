@@ -95,6 +95,8 @@ Sou Desenvolvedor, com grande motivação para solucionar problemas utilizando J
  <div style="display: inline_block; grid:col 4">     
         <img width="50px" style="padding: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         <img width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
+        <img  width="50px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+        
           
  </div>
     
