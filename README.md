@@ -6,9 +6,7 @@
 ---
 <div align="left">
  <h1>Sobre mim</h1>
-Sou desenvolvedor web, com forte foco na resolução de problemas por meio de JavaScript, PHP e SQL. Atuo tanto no front-end quanto no back-end, utilizando tecnologias como React.js, Next.js e TailwindCSS para interfaces modernas e responsivas, além de Laravel, MySQL e SQLite no desenvolvimento de sistemas robustos.
-
-Também trabalho como web designer, desenvolvendo layouts e experiências visuais no Figma e realizando a implementação prática em WordPress e Elementor. Com esse conjunto de habilidades, sou capaz de criar desde sites institucionais e landing pages até aplicações e sistemas web completos, aliando design, performance e funcionalidade.
+Sou desenvolvedor web, com forte foco na resolução de problemas por meio de JavaScript, PHP e SQL. Atuo tanto no front-end quanto no back-end, utilizando tecnologias como React.js, Next.js e TailwindCSS para interfaces modernas e responsivas, além de Laravel, MySQL e SQLite no desenvolvimento de sistemas robustos. Também trabalho como web designer, desenvolvendo layouts e experiências visuais no Figma e realizando a implementação prática em WordPress e Elementor. 
 </div>
 
 
