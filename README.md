@@ -14,7 +14,7 @@ Sou desenvolvedor web, com forte foco na resolução de problemas por meio de Ja
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5561999133344&text=Quero+iniciar+um+projeto%21&type=phone_number&app_absent=0)
-[![Meu Site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
+
 
 ---
 
@@ -103,6 +103,8 @@ Sou desenvolvedor web, com forte foco na resolução de problemas por meio de Ja
  </div>
     
 ---
+
+[![Meu Site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloodev.online)
  
 <!--  <div align="center">
   <img align="center" heigth="400px" style="padding-right: 10px;" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloopk&layout=compact&theme=transparent&custom_title=Tecnologias" />
