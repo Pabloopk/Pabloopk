@@ -65,7 +65,7 @@ Sou desenvolvedor web, com forte foco na resolução de problemas por meio de Ja
     <hr/>
 -->
 
-<div align="center">
+<div align="left">
     
 #  Skills
 
