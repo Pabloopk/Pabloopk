@@ -6,7 +6,12 @@
 ---
 <div align="left">
  <h1>Sobre mim</h1>
-Sou desenvolvedor web full stack, focado em resolver problemas com JavaScript/TypeScript, PHP e SQL. Trabalho com React e Next.js 16, TailwindCSS + shadcn/ui, Laravel, PostgreSQL (Neon) e Prisma, além de Clerk para autenticação. Também atuo como Web Designer no Figma e implemento sites em WordPress/Elementor.
+<p>
+ Sou desenvolvedor web full stack, focado em criar soluções eficientes e escaláveis. Trabalho desenvolvendo sistemas completos, conectando interfaces modernas com backends bem estruturados, sempre pensando em performance e na melhor experiência para o usuário.
+</p>
+ <!-- <p>
+  Desde julho de 2023, venho evoluindo na área de Tecnologia da Informação, com foco no desenvolvimento Fullstack. Iniciei minha graduação em Análise e Desenvolvimento de Sistemas pela Estácio, onde adquiri uma base sólida e venho aplicando esse conhecimento em projetos reais, o que tem contribuído diretamente para o meu crescimento profissional.
+ </p> -->
 </div>
 
 
