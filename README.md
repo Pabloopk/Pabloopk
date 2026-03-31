@@ -13,15 +13,7 @@ Tenho trabalhado com arquiteturas modernas, integrações com APIs (como platafo
 
 ---
 
-# 🚀 Atualmente trabalhando em
 
-- 📊 Dashboard de campanhas (Meta Ads / Google Ads / TikTok Ads)
-- ⚡ Otimização de performance e cache em aplicações Next.js
-- 🤖 Integrações com IA para análise de dados e geração de insights
-- 🔗 Webhooks (WhatsApp, Meta Leads, monday.com)
-- 🧠 Estruturação de sistemas SaaS escaláveis
-
----
 
 # 🧩 Stack Principal
 
@@ -33,11 +25,6 @@ Tenho trabalhado com arquiteturas modernas, integrações com APIs (como platafo
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
-- Next.js  
-- React  
-- TypeScript  
-- Tailwind CSS  
-- Shadcn UI  
 
 ---
 
@@ -48,8 +35,6 @@ Tenho trabalhado com arquiteturas modernas, integrações com APIs (como platafo
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
-- Node.js (API Routes / Server Actions)
-- PHP / Laravel  
 
 ---
 
@@ -58,9 +43,6 @@ Tenho trabalhado com arquiteturas modernas, integrações com APIs (como platafo
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
-- PostgreSQL  
-- Neon (Serverless DB)  
-- Prisma ORM  
 
 ---
 
@@ -70,10 +52,6 @@ Tenho trabalhado com arquiteturas modernas, integrações com APIs (como platafo
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
-
-- Git  
-- Vercel  
-- Figma  
 
 ---
 
