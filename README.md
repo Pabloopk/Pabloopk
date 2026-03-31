@@ -21,7 +21,7 @@ Sou desenvolvedor web full stack, focado em resolver problemas com JavaScript/Ty
 
 <div align="left">
     
-#  Skills
+#  Tecnologias
 
 ### FrontEnd
 
