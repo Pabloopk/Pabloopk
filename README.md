@@ -9,8 +9,6 @@
 Sou desenvolvedor web full stack, focado em criar soluções eficientes, escaláveis e orientadas a resultado.  
 Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas com backends bem estruturados, sempre priorizando performance, organização e experiência do usuário.
 
-Tenho trabalhado com arquiteturas modernas, integrações com APIs (como plataformas de anúncios e automações), além de dashboards analíticos e sistemas SaaS.
-
 ---
 
 
