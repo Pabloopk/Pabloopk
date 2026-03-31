@@ -4,7 +4,7 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+# Sobre mim
 
 Sou desenvolvedor web full stack, focado em criar soluções eficientes, escaláveis e orientadas a resultado.  
 Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas com backends bem estruturados, sempre priorizando performance, organização e experiência do usuário.
@@ -15,7 +15,7 @@ Tenho trabalhado com arquiteturas modernas, integrações com APIs (como platafo
 
 
 
-# 🧩 Stack Principal
+# Stack Principal
 
 ### Frontend
 <div style="display: inline_block">
@@ -55,13 +55,13 @@ Tenho trabalhado com arquiteturas modernas, integrações com APIs (como platafo
 
 ---
 
-# 📲 Contato
+# Contato
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5561999133344&text=Quero+iniciar+um+projeto%21&type=phone_number&app_absent=0)
 
 ---
 
-# 🌐 Portfólio
+# Portfólio
 
 [![Meu Site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://desenvolvedorpablo.vercel.app)
 
