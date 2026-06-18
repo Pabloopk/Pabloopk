@@ -6,7 +6,7 @@
 
 # Sobre mim
 
-Sou desenvolvedor web full stack, focado em criar soluções eficientes, escaláveis e orientadas a resultado.  
+Sou desenvolvedor full stack, focado em criar soluções eficientes, escaláveis e orientadas a resultado.  
 Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas com backends bem estruturados, sempre priorizando performance e experiência do usuário.
 
 ---
