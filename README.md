@@ -53,11 +53,9 @@ Tenho como foco a construção de código organizado e sustentável, priorizando
 
 ### Desenvolvimento Assistido por IA
 
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
-
-Utilizo ferramentas de IA como parte do fluxo de desenvolvimento para **análise de código, planejamento de implementação, debugging, refatoração, testes, documentação e revisão técnica**, mantendo decisões arquiteturais e validação humana no processo de engenharia.
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
 
 ---
 
