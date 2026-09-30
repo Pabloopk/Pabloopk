@@ -6,11 +6,8 @@
 
 # Sobre mim
 
-Sou **Desenvolvedor Full Stack**, atuando no desenvolvimento de aplicações web modernas, escaláveis e orientadas às necessidades do negócio.
-
-Trabalho na construção e evolução de soluções de ponta a ponta, desde a arquitetura e implementação de interfaces até o desenvolvimento de backends, APIs, modelagem de dados, autenticação, integrações com serviços externos e processos de deploy.
-
-Tenho como foco a construção de código organizado e sustentável, priorizando **arquitetura, performance, segurança, experiência do usuário e manutenibilidade**. Também utilizo **desenvolvimento assistido por Inteligência Artificial** integrado ao fluxo de engenharia, apoiando análise, implementação, refatoração, testes, revisão de código e documentação.
+Sou desenvolvedor full stack, focado em criar soluções eficientes, escaláveis e orientadas a resultado.  
+Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas com backends bem estruturados, sempre priorizando performance e experiência do usuário.
 
 ---
 
