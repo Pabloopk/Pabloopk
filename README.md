@@ -1,13 +1,16 @@
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E45&width=435&lines=Olá,+meu+nome+é+Pablo!;Sou+Desenvolvedor+Fullstack;Construo+sistemas+escaláveis+e+performáticos;Seja+bem-vindo+ao+meu+GitHub+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E45&width=500&lines=Olá,+meu+nome+é+Pablo!;Sou+Desenvolvedor+Fullstack;Desenvolvo+aplicações+web+modernas+e+escaláveis;Transformo+requisitos+em+soluções+digitais;Seja+bem-vindo+ao+meu+GitHub+👋)](https://git.io/typing-svg)
 
 ---
 
 # Sobre mim
 
-Sou desenvolvedor full stack, focado em criar soluções eficientes, escaláveis e orientadas a resultado.  
-Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas com backends bem estruturados, sempre priorizando performance e experiência do usuário.
+Sou **Desenvolvedor Full Stack**, atuando no desenvolvimento de aplicações web modernas, escaláveis e orientadas às necessidades do negócio.
+
+Trabalho na construção e evolução de soluções de ponta a ponta, desde a arquitetura e implementação de interfaces até o desenvolvimento de backends, APIs, modelagem de dados, autenticação, integrações com serviços externos e processos de deploy.
+
+Tenho como foco a construção de código organizado e sustentável, priorizando **arquitetura, performance, segurança, experiência do usuário e manutenibilidade**. Também utilizo **desenvolvimento assistido por Inteligência Artificial** integrado ao fluxo de engenharia, apoiando análise, implementação, refatoração, testes, revisão de código e documentação.
 
 ---
 
@@ -48,25 +51,27 @@ Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas co
 
 ---
 
-### IA no Desenvolvimento
+### Desenvolvimento Assistido por IA
 
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+
+Utilizo ferramentas de IA como parte do fluxo de desenvolvimento para **análise de código, planejamento de implementação, debugging, refatoração, testes, documentação e revisão técnica**, mantendo decisões arquiteturais e validação humana no processo de engenharia.
 
 ---
 
 ### Ferramentas
 
 [![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 
 ---
 
-# Acesse
+# Contato
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5561999133344&text=Quero+iniciar+um+projeto%21&type=phone_number&app_absent=0)
-[![Meu Site](https://img.shields.io/badge/Acesse%20meu%20site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pablo-nunes-desenvolvedor-web.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-007acc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pablo-nunes-desenvolvedor-web.vercel.app)
 
----
-
-
+</div>
