@@ -20,44 +20,19 @@ Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas co
 [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=for-the-badge&logo=radix-ui&logoColor=white)](https://ui.shadcn.com/)
-
----
-
-### Backend
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-
----
-
-### Banco de Dados & ORM
-
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Neon](https://img.shields.io/badge/Neon-00e699?style=for-the-badge&logo=postgresql&logoColor=black)](https://neon.tech/)
 [![Prisma](https://img.shields.io/badge/Prisma-0c344b?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-
----
-
-### DevOps & Deploy
-
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 [![railway.toml](https://img.shields.io/badge/railway.toml-111111?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
-
----
-
-### Desenvolvimento Assistido por IA
-
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
-
----
-
-### Ferramentas
-
 [![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
