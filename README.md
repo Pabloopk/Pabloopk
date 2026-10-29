@@ -44,7 +44,7 @@ Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas co
   <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker"/></a>
   <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/white" width="42" height="42" alt="Vercel"/></a>
   <a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/claude/D97757" width="42" height="42" alt="Claude Code"/></a>
-  <a href="https://openai.com/codex/"><img src="https://cdn.simpleicons.org/openai/white" width="42" height="42" alt="OpenAI Codex"/></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" width="42" height="42" alt="OpenAI Codex"/></a>
   <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/white" width="42" height="42" alt="GitHub"/></a>
   <a href="https://figma.com/"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" height="42" alt="Figma"/></a>
