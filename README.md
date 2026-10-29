@@ -10,7 +10,7 @@ Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas co
 ---
 
 # Stack
-
+<!---
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -28,6 +28,27 @@ Atuo no desenvolvimento de sistemas completos, conectando interfaces modernas co
 [![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+-->
+
+<p align="left">
+  <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="42" height="42" alt="Next.js"/></a>
+  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" height="42" alt="Tailwind CSS"/></a>
+  <a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="42" height="42" alt="Node.js"/></a>
+  <a href="https://www.php.net/"><img src="https://cdn.simpleicons.org/php/777BB4" width="42" height="42" alt="PHP"/></a>
+  <a href="https://laravel.com/"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="42" height="42" alt="Laravel"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL"/></a>
+  <a href="https://neon.tech/"><img src="https://cdn.simpleicons.org/neon/00E699" width="42" height="42" alt="Neon"/></a>
+  <a href="https://www.prisma.io/"><img src="https://cdn.simpleicons.org/prisma/5A67D8" width="42" height="42" alt="Prisma"/></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker"/></a>
+  <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/white" width="42" height="42" alt="Vercel"/></a>
+  <a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/claude/D97757" width="42" height="42" alt="Claude Code"/></a>
+  <a href="https://openai.com/codex/"><img src="https://cdn.simpleicons.org/openai/white" width="42" height="42" alt="OpenAI Codex"/></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/white" width="42" height="42" alt="GitHub"/></a>
+  <a href="https://figma.com/"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" height="42" alt="Figma"/></a>
+</p>
 
 ---
 
